@@ -1,2 +1,2 @@
-# -ntroToJava
+# introToJava
 Intro to Java
